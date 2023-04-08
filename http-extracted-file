@@ -1,0 +1,22 @@
+GET /upd/wsync64/v.txt?PHQGHUMEAY HTTP/1.1
+Host: g.static.mega.co.nz
+Cache-Control: no-cache
+Pragma: no-cache
+User-Agent: MEGAsync/4.9.1.0 (Windows 10.0.21996) MegaClient/4.16.0/64
+Connection: Keep-Alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en-IN,*
+
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Sat, 08 Apr 2023 13:11:24 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+6b
+............(.......HML..).,.I.310Q../Qp./.K..........&..T..$.......d.......C.Af..Ayy..y..r.0........a3....
+0
+
